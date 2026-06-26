@@ -38,3 +38,9 @@ $ sudo service jenkins restart
 $ sudo service jenkins stop
 $ sudo service jenkins start
 Jenkins 2.555.1
+===============================
+
+jenkins warfile download 
+paster in bin folder under
+java -jar jenkins.war --httpport=8082
+if version problem then old version use jenkins.war file or use higher version java
